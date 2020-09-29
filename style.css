@@ -1,0 +1,54 @@
+* {
+    line-height: 1.6;
+}
+
+.right-text {
+    text-align: right;
+    background-color: gray;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 8;
+}
+
+.date {
+    text-align: right;
+    font-weight: bold;
+    text-decoration: underline overline;
+}
+.left-text {
+    text-align: left;
+}
+
+.normal-text {
+    text-decoration-color:darkgray;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.paragrahp-head {
+    font-weight: bold;
+    font-size: x-small;
+}
+.main-section {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    word-wrap: break-word;
+}
+.footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+.underline {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
+.quote {
+    quotes: "«" "»";
+}
